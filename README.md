@@ -1,7 +1,7 @@
 [![MasterHead](header.png)](https://github.com/GregoryKogan)
 
 ### Social
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](grisha.koganovskiy@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:grisha.koganovskiy@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/GregoryKogan)
 
 ### Tech stack
