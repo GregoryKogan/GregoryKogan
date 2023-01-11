@@ -33,9 +33,9 @@
 ![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Neovim](https://img.shields.io/static/v1?style=for-the-badge&message=Neovim&color=57A143&logo=Neovim&logoColor=FFFFFF&label=)
 ![Alacritty](https://img.shields.io/static/v1?style=for-the-badge&message=Alacritty&color=F46D01&logo=Alacritty&logoColor=FFFFFF&label=)
 ![Starship](https://img.shields.io/static/v1?style=for-the-badge&message=Starship&color=DD0B78&logo=Starship&logoColor=FFFFFF&label=)
+<!-- ![Neovim](https://img.shields.io/static/v1?style=for-the-badge&message=Neovim&color=57A143&logo=Neovim&logoColor=FFFFFF&label=) -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GregoryKogan&langs_count=7&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 ![GregoryKogan's GitHub stats](https://github-readme-stats.vercel.app/api?username=GregoryKogan&show_icons=true&theme=tokyonight)
