@@ -2,6 +2,9 @@
   <a href="https://github.com/GregoryKogan/algo-vfi"><img src="readme_assets/flow.gif" width="59.75%" /></a>
   <a href="https://github.com/GregoryKogan/pac-man"><img src="readme_assets/pacman-map.gif" width="30.25%" /></a>
   <br />
+  <a href="https://github.com/GregoryKogan/sorts"><img src="readme_assets/odd-even-sort.gif" width="56%" /></a>
+  <a href="https://github.com/GregoryKogan/fractal-rendering-webgl"><img src="readme_assets/fractal.gif" width="34%" /></a>
+  <br />
   <a href="https://github.com/GregoryKogan/genetic-algorithms"><img src="readme_assets/gp-200-planar-FR-NSGA2.gif" width="36%" /></a>
   <a href="https://github.com/GregoryKogan/mnemonic-pictures"><img src="readme_assets/mnemonic2.gif" width="54%" /></a>
   <br />
